@@ -1,0 +1,24 @@
+header {
+    text-align: center;
+}
+
+.fishImage {
+    width: 200px;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#fishList {
+    display: flex;
+    flex: row;
+    flex-wrap: wrap;
+    text-align: center;
+    flex: 2;
+    justify-content: space-around;
+}
+

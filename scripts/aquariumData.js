@@ -55,6 +55,14 @@ export const database = {
             location: "Caribbean Sea",
             diet: "Carnivore",
             image: "https://reefcasa.com/wp-content/uploads/2023/06/Royal-Gramma.jpg"
+        },
+        {
+            name: "Jacques",
+            species: "Cleaner Shrimp",
+            length: 2,
+            location: "Indo-Pacific Region",
+            diet: "Carnivore",
+            image: "https://www.aquariumofpacific.org/images/made_new/images-olc-Pacific_Cleaner_Shrimp_Side_900_600_q85.jpg"
         }
     ],
     tips: [
@@ -117,9 +125,9 @@ export const database = {
             description: "Coral reefs throughout the Pacific Ocean, such as those around Fiji and Tahiti, are habitats for Clownfish, Blue Tang, and Damselfish." 
         },
         {
-            name: "Kelp Forests",
-            country: "California, USA; Chile; South Africa; Australia",
-            description: "Kelp forests provide habitat for a variety of marine life. While primarily known for species like kelp bass, they also support Pufferfish and other small fish."
+        name: "Palau Coral Reefs",
+        country: "Palau",
+        description: "The Palau Coral Reefs, located in the western Pacific Ocean, are famous for their extraordinary biodiversity and crystal-clear waters, home to species such as Clownfish, Giant Clams, and various Sharks."
         }
     ]
 };
